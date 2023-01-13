@@ -1,11 +1,5 @@
 [
     {
-    "id":28,
-    "nim":"2010020008",
-    "nama":"M. Rizky Fadillah",
-    "kelas":"5F SI"
-    },
-    {
     "id":29,
     "nim":"2010020009",
     "nama":"Syifa Amalia",
@@ -17,24 +11,7 @@
     "nama":"Evian Dali E. S.",
     "kelas":"5F SI"
     },
-    {
-    "id":31,
-    "nim":"2010020018",
-    "nama":"Tamjidillah",
-    "kelas":"5F SI"
-    },
-    {
-    "id":32,
-    "nim":"2010020076",
-    "nama":"Dodik Bella S.",
-    "kelas":"5F Si"
-    },
-    {
-    "id":33,
-    "nim":"2010020082",
-    "nama":"Umar Hasan",
-    "kelas":"5F Si"
-    },
+  
     {
     "id":34,
     "nim":"2010020087",
@@ -46,16 +23,4 @@
     "nim":"2010020096",
     "nama":"Nur Baity",
     "kelas":"5F SI"
-    },
-    {"id":36,
-    "nim":"2010020099",
-    "nama":"M. Feriq Aqira",
-    "kelas":"5F SI"
-    },
-    {
-    "id":37,
-    "nim":"2210020080",
-    "nama":"Ridho Dwy K.",
-    "kelas":"5F Si"
-    }
     ]
